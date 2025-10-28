@@ -15,7 +15,10 @@ It demonstrates product listing, cart management, checkout with user details, an
 
 | Home Page | Checkout | Receipt Modal |
 |-----------|----------|--------------|
-| ![Home]("C:\Users\bohra\OneDrive\Pictures\Screenshots\HomePage.png") | ![Checkout]("C:\Users\bohra\OneDrive\Pictures\Screenshots\Checkout2.png") | ![Receipt]("C:\Users\bohra\OneDrive\Pictures\Screenshots\Reciept.png") |
+| ![Home]("<img width="1920" height="1080" alt="HomePage" src="https://github.com/user-attachments/assets/32d8bce1-882c-4ce9-bdff-5f0d4be8026b" />
+") | ![Checkout]("<img width="1920" height="1080" alt="Checkout2" src="https://github.com/user-attachments/assets/361b795c-814f-42ff-ab13-264a3c363a28" />
+") | ![Receipt]("<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/b4961c73-0c67-4ba3-88f6-68cc42f134ab" />
+") |
 
 ---
 
