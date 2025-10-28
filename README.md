@@ -114,9 +114,10 @@ Returns mock receipt with name, total, and timestamp
 
 Krishna Dayal Bohra
 Full-Stack Developer | React + Node.js
-📧 bohrakrishna693@gmail.com
 
-🔗 LinkedIn
+📧 bohrakrishna693@gmail.com
+🔗 https://www.linkedin.com/in/krishnadayalbohra/
+
 
 🌟 Acknowledgment
 
